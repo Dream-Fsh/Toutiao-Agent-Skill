@@ -1,0 +1,3 @@
+# Keep orchestrator and module reviews separable.
+/toutiao-placement-orchestrator/ @Dream-Fsh
+/toutiao-account-import/ @Dream-Fsh

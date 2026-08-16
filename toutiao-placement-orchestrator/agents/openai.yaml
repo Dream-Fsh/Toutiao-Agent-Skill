@@ -1,0 +1,4 @@
+interface:
+  display_name: "Toutiao Placement Orchestrator"
+  short_description: "Route Toutiao placement requests to verified modules"
+  default_prompt: "Use $toutiao-placement-orchestrator to route this Toutiao placement request to the right module."
