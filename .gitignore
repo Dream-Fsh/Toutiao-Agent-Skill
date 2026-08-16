@@ -1,0 +1,16 @@
+# Credentials and browser/session exports
+.env
+.env.*
+!.env.example
+*.cookie
+cookies.json
+storage-state.json
+
+# Local tooling
+__pycache__/
+.pytest_cache/
+node_modules/
+dist/
+
+# Local reference only; never publish this cross-platform source with Toutiao.
+gdt-advertising-placement-backup/

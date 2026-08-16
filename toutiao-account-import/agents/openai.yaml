@@ -1,0 +1,4 @@
+interface:
+  display_name: "Toutiao-账户导入"
+  short_description: "Import and verify Toutiao media accounts"
+  default_prompt: "Use $toutiao-account-import to import and verify Toutiao advertiser accounts in Chuangliang."
